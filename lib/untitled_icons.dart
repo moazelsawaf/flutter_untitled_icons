@@ -1,4 +1,4 @@
-library flutter_untitled_icons;
+library untitled_icons;
 
 /// A Calculator.
 class Calculator {

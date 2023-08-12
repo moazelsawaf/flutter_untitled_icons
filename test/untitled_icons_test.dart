@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_untitled_icons/flutter_untitled_icons.dart';
+import 'package:untitled_icons/untitled_icons.dart';
 
 void main() {
   test('adds one to input values', () {
