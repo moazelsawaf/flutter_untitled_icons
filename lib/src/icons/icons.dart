@@ -1,3 +1,4 @@
+export 'untitled_icons.dart';
 export 'alerts_and_feedback.dart';
 export 'arrows.dart';
 export 'charts.dart';
