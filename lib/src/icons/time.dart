@@ -1,0 +1,30 @@
+abstract class Time {
+  static const alarmClockCheck = 'assets/time/alarm-clock-check.svg.vec';
+  static const alarmClockMinus = 'assets/time/alarm-clock-minus.svg.vec';
+  static const alarmClockOff = 'assets/time/alarm-clock-off.svg.vec';
+  static const alarmClockPlus = 'assets/time/alarm-clock-plus.svg.vec';
+  static const alarmClock = 'assets/time/alarm-clock.svg.vec';
+  static const calendarCheck01 = 'assets/time/calendar-check-01.svg.vec';
+  static const calendarCheck02 = 'assets/time/calendar-check-02.svg.vec';
+  static const calendarDate = 'assets/time/calendar-date.svg.vec';
+  static const calendarHeart01 = 'assets/time/calendar-heart-01.svg.vec';
+  static const calendarHeart02 = 'assets/time/calendar-heart-02.svg.vec';
+  static const calendarMinus01 = 'assets/time/calendar-minus-01.svg.vec';
+  static const calendarMinus02 = 'assets/time/calendar-minus-02.svg.vec';
+  static const calendarPlus01 = 'assets/time/calendar-plus-01.svg.vec';
+  static const calendarPlus02 = 'assets/time/calendar-plus-02.svg.vec';
+  static const calendar = 'assets/time/calendar.svg.vec';
+  static const clockCheck = 'assets/time/clock-check.svg.vec';
+  static const clockFastForward = 'assets/time/clock-fast-forward.svg.vec';
+  static const clockPlus = 'assets/time/clock-plus.svg.vec';
+  static const clockRefresh = 'assets/time/clock-refresh.svg.vec';
+  static const clockRewind = 'assets/time/clock-rewind.svg.vec';
+  static const clockSnooze = 'assets/time/clock-snooze.svg.vec';
+  static const clockStopwatch = 'assets/time/clock-stopwatch.svg.vec';
+  static const clock = 'assets/time/clock.svg.vec';
+  static const hourglass01 = 'assets/time/hourglass-01.svg.vec';
+  static const hourglass02 = 'assets/time/hourglass-02.svg.vec';
+  static const hourglass03 = 'assets/time/hourglass-03.svg.vec';
+  static const watchCircle = 'assets/time/watch-circle.svg.vec';
+  static const watchSquare = 'assets/time/watch-square.svg.vec';
+}

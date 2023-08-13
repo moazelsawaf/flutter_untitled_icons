@@ -1,0 +1,31 @@
+abstract class Images {
+  static const camera01 = 'assets/images/camera-01.svg.vec';
+  static const camera02 = 'assets/images/camera-02.svg.vec';
+  static const camera03 = 'assets/images/camera-03.svg.vec';
+  static const cameraLens = 'assets/images/camera-lens.svg.vec';
+  static const cameraOff = 'assets/images/camera-off.svg.vec';
+  static const cameraPlus = 'assets/images/camera-plus.svg.vec';
+  static const colors = 'assets/images/colors.svg.vec';
+  static const flashOff = 'assets/images/flash-off.svg.vec';
+  static const flash = 'assets/images/flash.svg.vec';
+  static const image01 = 'assets/images/image-01.svg.vec';
+  static const image02 = 'assets/images/image-02.svg.vec';
+  static const image03 = 'assets/images/image-03.svg.vec';
+  static const image04 = 'assets/images/image-04.svg.vec';
+  static const image05 = 'assets/images/image-05.svg.vec';
+  static const imageCheck = 'assets/images/image-check.svg.vec';
+  static const imageDown = 'assets/images/image-down.svg.vec';
+  static const imageLeft = 'assets/images/image-left.svg.vec';
+  static const imagePlus = 'assets/images/image-plus.svg.vec';
+  static const imageRight = 'assets/images/image-right.svg.vec';
+  static const imageUp = 'assets/images/image-up.svg.vec';
+  static const imageUserCheck = 'assets/images/image-user-check.svg.vec';
+  static const imageUserDown = 'assets/images/image-user-down.svg.vec';
+  static const imageUserLeft = 'assets/images/image-user-left.svg.vec';
+  static const imageUserPlus = 'assets/images/image-user-plus.svg.vec';
+  static const imageUserRight = 'assets/images/image-user-right.svg.vec';
+  static const imageUserUp = 'assets/images/image-user-up.svg.vec';
+  static const imageUserX = 'assets/images/image-user-x.svg.vec';
+  static const imageUser = 'assets/images/image-user.svg.vec';
+  static const imageX = 'assets/images/image-x.svg.vec';
+}

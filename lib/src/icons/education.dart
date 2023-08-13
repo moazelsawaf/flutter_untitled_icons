@@ -1,0 +1,33 @@
+abstract class Education {
+  static const atom01 = 'assets/education/atom-01.svg.vec';
+  static const atom02 = 'assets/education/atom-02.svg.vec';
+  static const award01 = 'assets/education/award-01.svg.vec';
+  static const award02 = 'assets/education/award-02.svg.vec';
+  static const award03 = 'assets/education/award-03.svg.vec';
+  static const award04 = 'assets/education/award-04.svg.vec';
+  static const award05 = 'assets/education/award-05.svg.vec';
+  static const backpack = 'assets/education/backpack.svg.vec';
+  static const beaker01 = 'assets/education/beaker-01.svg.vec';
+  static const beaker02 = 'assets/education/beaker-02.svg.vec';
+  static const bookClosed = 'assets/education/book-closed.svg.vec';
+  static const bookOpen01 = 'assets/education/book-open-01.svg.vec';
+  static const bookOpen02 = 'assets/education/book-open-02.svg.vec';
+  static const briefcase01 = 'assets/education/briefcase-01.svg.vec';
+  static const briefcase02 = 'assets/education/briefcase-02.svg.vec';
+  static const calculator = 'assets/education/calculator.svg.vec';
+  static const certificate01 = 'assets/education/certificate-01.svg.vec';
+  static const certificate02 = 'assets/education/certificate-02.svg.vec';
+  static const compass = 'assets/education/compass.svg.vec';
+  static const glasses01 = 'assets/education/glasses-01.svg.vec';
+  static const glasses02 = 'assets/education/glasses-02.svg.vec';
+  static const globeSlated01 = 'assets/education/globe-slated-01.svg.vec';
+  static const globeSlated02 = 'assets/education/globe-slated-02.svg.vec';
+  static const graduationHat01 = 'assets/education/graduation-hat-01.svg.vec';
+  static const graduationHat02 = 'assets/education/graduation-hat-02.svg.vec';
+  static const microscope = 'assets/education/microscope.svg.vec';
+  static const ruler = 'assets/education/ruler.svg.vec';
+  static const stand = 'assets/education/stand.svg.vec';
+  static const telescope = 'assets/education/telescope.svg.vec';
+  static const trophy01 = 'assets/education/trophy-01.svg.vec';
+  static const trophy02 = 'assets/education/trophy-02.svg.vec';
+}
