@@ -1,4 +1,4 @@
-abstract class Time {
+abstract class UntitledTime {
   static const alarmClockCheck = 'assets/time/alarm-clock-check.svg.vec';
   static const alarmClockMinus = 'assets/time/alarm-clock-minus.svg.vec';
   static const alarmClockOff = 'assets/time/alarm-clock-off.svg.vec';

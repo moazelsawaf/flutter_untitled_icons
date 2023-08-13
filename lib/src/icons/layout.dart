@@ -1,4 +1,4 @@
-abstract class Layout {
+abstract class UntitledLayout {
   static const alignBottom01 = 'assets/layout/align-bottom-01.svg.vec';
   static const alignBottom02 = 'assets/layout/align-bottom-02.svg.vec';
   static const alignHorizontalCentre01 =

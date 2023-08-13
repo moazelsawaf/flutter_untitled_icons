@@ -1,4 +1,4 @@
-abstract class Communication {
+abstract class UntitledCommunication {
   static const annotationAlert =
       'assets/communication/annotation-alert.svg.vec';
   static const annotationCheck =

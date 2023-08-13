@@ -1,4 +1,4 @@
-abstract class FinanceAndEcommerce {
+abstract class UntitledFinanceAndEcommerce {
   static const bankNote01 = 'assets/finance_and_ecommerce/bank-note-01.svg.vec';
   static const bankNote02 = 'assets/finance_and_ecommerce/bank-note-02.svg.vec';
   static const bankNote03 = 'assets/finance_and_ecommerce/bank-note-03.svg.vec';

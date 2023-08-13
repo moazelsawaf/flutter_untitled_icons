@@ -1,4 +1,4 @@
-abstract class Weather {
+abstract class UntitledWeather {
 	static const cloud01 = 'assets/weather/cloud-01.svg.vec';
 	static const cloud02 = 'assets/weather/cloud-02.svg.vec';
 	static const cloud03 = 'assets/weather/cloud-03.svg.vec';

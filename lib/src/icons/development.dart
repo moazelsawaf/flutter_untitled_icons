@@ -1,4 +1,4 @@
-abstract class Development {
+abstract class UntitledDevelopment {
   static const bracketsCheck = 'assets/development/brackets-check.svg.vec';
   static const bracketsEllipses =
       'assets/development/brackets-ellipses.svg.vec';

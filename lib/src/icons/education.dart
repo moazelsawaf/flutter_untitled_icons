@@ -1,4 +1,4 @@
-abstract class Education {
+abstract class UntitledEducation {
   static const atom01 = 'assets/education/atom-01.svg.vec';
   static const atom02 = 'assets/education/atom-02.svg.vec';
   static const award01 = 'assets/education/award-01.svg.vec';

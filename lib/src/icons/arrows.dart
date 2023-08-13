@@ -1,4 +1,4 @@
-abstract class Arrows {
+abstract class UntitledArrows {
   static const arrowBlockDown = 'assets/arrows/arrow-block-down.svg.vec';
   static const arrowBlockLeft = 'assets/arrows/arrow-block-left.svg.vec';
   static const arrowBlockRight = 'assets/arrows/arrow-block-right.svg.vec';

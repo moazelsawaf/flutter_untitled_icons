@@ -1,4 +1,4 @@
-abstract class Files {
+abstract class UntitledFiles {
   static const box = 'assets/files/box.svg.vec';
   static const clipboardAttachment =
       'assets/files/clipboard-attachment.svg.vec';

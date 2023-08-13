@@ -1,4 +1,4 @@
-abstract class Editor {
+abstract class UntitledEditor {
   static const alignCenter = 'assets/editor/align-center.svg.vec';
   static const alignJustify = 'assets/editor/align-justify.svg.vec';
   static const alignLeft = 'assets/editor/align-left.svg.vec';

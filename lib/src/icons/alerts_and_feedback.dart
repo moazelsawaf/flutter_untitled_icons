@@ -1,4 +1,4 @@
-abstract class AlertsAndFeedback {
+abstract class UntitledAlertsAndFeedback {
   static const alertCircle = 'assets/alerts_and_feedback/alert-circle.svg.vec';
   static const alertHexagon =
       'assets/alerts_and_feedback/alert-hexagon.svg.vec';

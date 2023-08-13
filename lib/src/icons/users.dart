@@ -1,4 +1,4 @@
-abstract class Users {
+abstract class UntitledUsers {
   static const faceContent = 'assets/users/face-content.svg.vec';
   static const faceFrown = 'assets/users/face-frown.svg.vec';
   static const faceHappy = 'assets/users/face-happy.svg.vec';

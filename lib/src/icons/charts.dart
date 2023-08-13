@@ -1,4 +1,4 @@
-abstract class Charts {
+abstract class UntitledCharts {
   static const barChart01 = 'assets/charts/bar-chart-01.svg.vec';
   static const barChart02 = 'assets/charts/bar-chart-02.svg.vec';
   static const barChart03 = 'assets/charts/bar-chart-03.svg.vec';

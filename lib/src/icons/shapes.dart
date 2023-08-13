@@ -1,4 +1,4 @@
-abstract class Shapes {
+abstract class UntitledShapes {
   static const circle = 'assets/shapes/circle.svg.vec';
   static const cube01 = 'assets/shapes/cube-01.svg.vec';
   static const cube02 = 'assets/shapes/cube-02.svg.vec';

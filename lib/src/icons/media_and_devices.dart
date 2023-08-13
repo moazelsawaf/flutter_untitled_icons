@@ -1,4 +1,4 @@
-abstract class MediaAndDevices {
+abstract class UntitledMediaAndDevices {
   static const airplay = 'assets/media_and_devices/airplay.svg.vec';
   static const airpods = 'assets/media_and_devices/airpods.svg.vec';
   static const batteryCharging01 =

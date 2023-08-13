@@ -1,4 +1,4 @@
-abstract class Security {
+abstract class UntitledSecurity {
   static const faceIdSquare = 'assets/security/face-id-square.svg.vec';
   static const faceId = 'assets/security/face-id.svg.vec';
   static const fileLock01 = 'assets/security/file-lock-01.svg.vec';

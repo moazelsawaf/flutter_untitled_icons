@@ -1,4 +1,4 @@
-abstract class Images {
+abstract class UntitledImages {
   static const camera01 = 'assets/images/camera-01.svg.vec';
   static const camera02 = 'assets/images/camera-02.svg.vec';
   static const camera03 = 'assets/images/camera-03.svg.vec';

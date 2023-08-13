@@ -1,4 +1,4 @@
-abstract class MapsAndTravel {
+abstract class UntitledMapsAndTravel {
   static const bus = 'assets/maps_and_travel/bus.svg.vec';
   static const car01 = 'assets/maps_and_travel/car-01.svg.vec';
   static const car02 = 'assets/maps_and_travel/car-02.svg.vec';

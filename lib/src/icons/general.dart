@@ -1,4 +1,4 @@
-abstract class General {
+abstract class UntitledGeneral {
   static const activityHeart = 'assets/general/activity-heart.svg.vec';
   static const activity = 'assets/general/activity.svg.vec';
   static const anchor = 'assets/general/anchor.svg.vec';
