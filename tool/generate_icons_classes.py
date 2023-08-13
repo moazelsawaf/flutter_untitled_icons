@@ -25,7 +25,7 @@ for iconsFolder in iconsFolders:
     file = open(iconsClassPath, 'w')
 
     pascalFolderName = folderNameToPascalCase(iconsFolder)
-    file.write('abstract class ' + pascalFolderName + ' {\n')
+    file.write(f'abstract class Untitled{pascalFolderName} {{\n')
 
     iconsFiles = os.listdir(os.path.join(assetsFolder, iconsFolder))
 
