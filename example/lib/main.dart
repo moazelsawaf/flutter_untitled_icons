@@ -22,9 +22,37 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
         ),
         body: const Center(
-          child: UntitledIcon(
-            icon: UntitledGeneral.checkVerified02,
-            size: 150,
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              UntitledIcon(
+                icon: UntitledGeneral.checkVerified02,
+                size: 150,
+              ),
+              SizedBox(height: 16),
+              Text(
+                'Untitled Icon from the Package',
+                style: TextStyle(
+                  color: _untitledPrimaryColor,
+                  fontSize: 18,
+                  fontWeight: FontWeight.w500,
+                ),
+              ),
+              SizedBox(height: 64),
+              UntitledIcon.customSvg(
+                icon: 'assets/icons/health_notification_gadget.svg',
+                size: 150,
+              ),
+              SizedBox(height: 16),
+              Text(
+                'Custom Icon from the Assets',
+                style: TextStyle(
+                  color: _untitledPrimaryColor,
+                  fontSize: 18,
+                  fontWeight: FontWeight.w500,
+                ),
+              ),
+            ],
           ),
         ),
       ),
