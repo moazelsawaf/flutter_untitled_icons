@@ -39,7 +39,8 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 64),
-              UntitledIcon.customSvg(
+              UntitledIcon(
+                customIcon: true,
                 icon: 'assets/icons/health_notification_gadget.svg',
                 size: 150,
               ),

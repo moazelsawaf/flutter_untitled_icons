@@ -9,28 +9,25 @@ class UntitledIcon extends StatelessWidget {
   final String icon;
   final double size;
   final Color color;
-  final bool _isCustomSvg;
+  final String? packageName;
+  final bool customIcon;
 
   const UntitledIcon({
     super.key,
     required this.icon,
     this.size = 24,
     this.color = _untitledPrimaryColor,
-  }) : _isCustomSvg = false;
-
-  const UntitledIcon.customSvg({
-    super.key,
-    required this.icon,
-    this.size = 24,
-    this.color = _untitledPrimaryColor,
-  }) : _isCustomSvg = true;
+    this.packageName,
+    this.customIcon = false,
+  });
 
   @override
   Widget build(BuildContext context) {
+    final packageNameString = packageName ?? (customIcon ? null : _packageName);
     return SvgPicture(
-      _isCustomSvg
-          ? SvgAssetLoader(icon)
-          : AssetBytesLoader(icon, packageName: _packageName),
+      icon.endsWith('.vec')
+          ? AssetBytesLoader(icon, packageName: packageNameString)
+          : SvgAssetLoader(icon, packageName: packageNameString),
       height: size,
       width: size,
       colorFilter: ColorFilter.mode(color, BlendMode.srcIn),
