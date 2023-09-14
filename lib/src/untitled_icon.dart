@@ -23,7 +23,7 @@ class UntitledIcon extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final packageNameString = packageName ?? (customIcon ? null : _packageName);
+    final packageNameString = customIcon ? packageName : _packageName;
     return SvgPicture(
       icon.endsWith('.vec')
           ? AssetBytesLoader(icon, packageName: packageNameString)
